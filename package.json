@@ -1,0 +1,17 @@
+{
+  "name": "cognito-postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elvece",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^2.0.2",
+    "aws-sdk": "^2.212.1",
+    "node-fetch": "^2.1.1",
+    "speakeasy": "^2.0.0"
+  }
+}
