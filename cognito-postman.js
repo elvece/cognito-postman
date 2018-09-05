@@ -1,5 +1,6 @@
 const AmazonCognitoIdentity = require('amazon-cognito-identity-js')
 const speakeasy = require('speakeasy')
+const { CognitoUserPool, CognitoUserAttribute, CognitoUser } = AmazonCognitoIdentity
 
 // globally accessible variables
 export const userPool = new CognitoUserPool({

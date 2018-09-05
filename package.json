@@ -9,9 +9,9 @@
   "author": "elvece",
   "license": "ISC",
   "dependencies": {
-    "amazon-cognito-identity-js": "^2.0.2",
-    "aws-sdk": "^2.212.1",
-    "node-fetch": "^2.1.1",
+    "amazon-cognito-identity-js": "^2.0.23",
+    "aws-sdk": "^2.308.0",
+    "node-fetch": "^2.2.0",
     "speakeasy": "^2.0.0"
   }
 }
